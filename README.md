@@ -1,123 +1,171 @@
-# Hi there, I'm Winnie Tan 👋
+<h1 align="center">Hi, I'm Winnie Tan 👋</h1>
 
-<p align="left">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Year+2+BSc+Data+Science+%26+AI+%40+TU+Dublin;Aspiring+Software+Engineer+%26+Data+Scientist;Double+Hackathon+Award+Winner+%F0%9F%8F%86;Student+Ambassador+%7C+Peer+Mentor+%7C+Leader" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/winnie-tan-3413183a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:wtan2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/TU%20Dublin-Year%202%20BSc%20Data%20Science%20%26%20AI-003366?style=for-the-badge" alt="Degree" />
-  <img src="https://img.shields.io/badge/Dublin%2C%20Ireland-green?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/TU%20Dublin-BSc%20Data%20Science%20%26%20AI-003366?style=for-the-badge" alt="Degree" />
+  <img src="https://img.shields.io/badge/Location-Dublin%2C%20Ireland-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
-> **Aspiring Software Engineer & Data Scientist**  
-> Year 2 student pursuing a **BSc in Data Science & Artificial Intelligence** at **Technological University Dublin**.  
-> Focused on building accessible software, computer vision tools, data-driven systems, and interactive applications.
+<p align="center">
+  <i>"Driven to design and build accessible software, intelligent data pipelines, and high-impact digital experiences."</i>
+</p>
 
 ---
 
-## 💻 Featured Projects & Engineering Work
+### 💡 Executive Summary
 
-Putting technical projects front and center — structured across my degree milestones:
+I am a Year 2 **Data Science & Artificial Intelligence** undergraduate at **Technological University Dublin**, aspiring to build a career as a **Software Engineer** and **Data Scientist**. 
 
-### 📍 Year 2 (Current Year)
+* 🏆 **Proven Innovation**: Winner of both the **Best Innovation Award** and **People's Choice Award** at the *Workday × CS++ Hackathon* for engineering an assistive colour-deficiency transformation pipeline.
+* 🛠️ **Full-Spectrum Foundations**: Solid academic and project foundations spanning **Python, C, Java, JavaScript, Web Architecture, Data Pipelines**, and **Game Engine mechanics**.
+* 🌐 **Global & Multilingual**: Fluent across 5 languages (**English, Mandarin, Malay, Cantonese, Hokkien**) with demonstrated communication, student mentorship, and leadership excellence.
+
+---
+
+## 💻 Featured Technical Projects
+
+### 📍 Year 2 (Current Academic Year — 2025/2026)
 
 #### 🏆 **Huawei Techarena Hackathon Project**
-> *Advanced competitive computing and technology challenge set by Huawei engineers.*
-- **Focus**: Algorithmic problem-solving, high-performance optimization, and system efficiency.
-- **Status**: 🚧 Finalizing implementation and architecture documentation.
-- **Key Concepts**: `Algorithms` · `Data Structures` · `High-Performance Computing`
-- *Repository link coming soon!*
+> *Competitive engineering and systems challenge hosted by Huawei.*
+* **Objective**: Tackle real-world computational efficiency and algorithmic optimization problems.
+* **Core Focus**: High-performance algorithmic thinking, data structures, and computational optimization.
+* **Tech**: `Algorithms` · `Data Structures` · `Python` · `Systems Engineering`
+* *Status*: 🚧 Finalizing implementation and technical documentation.
 
-*(More Year 2 projects & coursework in Data Science, Databases, and Python being uploaded soon 🚀)*
+#### 📊 **Data-Centric AI & Applied Analytics**
+> *Applied statistical modeling and data preprocessing coursework.*
+* **Objective**: Process, transform, and analyze datasets to uncover patterns, handle missingness, and build predictive insights.
+* **Tech**: `Python` · `Jupyter Notebooks` · `Pandas` · `NumPy` · `Data Cleaning` · `Exploratory Data Analysis`
 
 ---
 
-### 📍 Year 1
+### 📍 Year 1 (Foundations & Hackathon Wins)
 
 #### 👁️ **Colour Accessibility Tool** 🥇
-> **Workday × CS++ Society Hackathon — Double Award Winner (Best Innovation & People's Choice)**
-- **Problem & Solution**: Developed an assistive data-driven transformation pipeline designed for users with color vision deficiencies (including **Protanopia** and **Tritanopia**). It mathematically enhances color distinction in visual content while preserving scene context.
-- **Future Vision**: Designed for real-time video processing with a long-term goal of integration into **AR smart glasses**.
-- **Tech Stack**: `Python` · `Data Pipelines` · `Computer Vision Concepts` · `Accessible UX`
+> **Workday × CS++ Hackathon — Double Winner: Best Innovation Award & People's Choice Award**
+* **The Problem**: Over 300 million people worldwide experience colour vision deficiency (CVD), impairing data visualization and UI readability.
+* **The Solution**: Engineered an adaptive data-driven transformation pipeline tailored for **Protanopia** and **Tritanopia** that recalculates visual spectral channels to maximize contrast while preserving contextual scene information.
+* **Future Roadmap**: Designed with real-time video processing in mind for eventual deployment to **AR smart glasses** and assistive heads-up displays.
+* **Tech Stack**: `Python` · `Data Transformation Pipelines` · `Computer Vision Concepts` · `Accessible UX`
 
-#### 🌐 **Web Development 1 — Group Project (Website)**
-> *Collaborative full-stack web project created in collaboration with Aaron and teammates.*
-- **Overview**: Designed and engineered a structured, responsive website emphasizing clean user interface principles, modern CSS layouts, and dynamic DOM interaction.
-- **Collaboration**: Maintained team version control with Git branching, pull requests, and component modularity.
-- **Tech Stack**: `HTML5` · `CSS3` · `JavaScript` · `Git/GitHub`
-- *[Explore Project Code](#) · Live Demo coming soon*
+#### 🌐 **Web Development 1 — Collaborative Platform (Website)**
+> *Full-stack responsive web application engineered in collaboration with Aaron and teammates.*
+* **Architecture**: Designed and developed responsive frontend pages with clean semantic markup, flexible grid/flexbox layouts, and dynamic DOM interaction.
+* **Engineering Standards**: Followed strict Git branching workflows, peer pull requests, and mobile-first responsive design.
+* **Tech Stack**: `HTML5` · `CSS3` · `JavaScript` · `Git & GitHub Collaboration`
 
-#### 🎨 **Creative Coding & Interactive Media**
-> *Coursework and labs exploring algorithmic design, generative visuals, and game physics.*
-- **[cc26](https://github.com/winnieee-tan/cc26)**: Visual algorithmic sketches, interactive simulations, and generative math patterns implemented in Processing and Java.  
-  *`Java` · `Processing` · `Algorithmic Graphics`*
-- **[week9-godot-lab](https://github.com/winnieee-tan/week9-godot-lab)**: 2D/3D gameplay mechanics, kinematics, and scene management built inside the Godot Engine.  
-  *`Godot 4` · `GDScript` · `Game Physics`*
+#### 🎨 **Creative Coding & Interactive Visuals**
+* **[week9-godot-lab](https://github.com/winnieee-tan/week9-godot-lab)**: Interactive 2D/3D physics laboratory, state management, kinematics, and real-time audio wave synthesis using the Godot Engine and GDScript.  
+  *`Godot 4` · `GDScript` · `Game Mechanics` · `Audio Synthesis`*
+* **[cc26](https://github.com/winnieee-tan/cc26)**: Procedural graphics generation, generative art, and algorithmic visual patterns built using Processing and Java.  
+  *`Java` · `Processing` · `Computational Visuals`*
 
 ---
 
 ## 🏆 Honours & Key Achievements
 
-| Award / Honor | Organization | Details |
+| Recognition / Honor | Awarding Body | Impact / Significance |
 | :--- | :--- | :--- |
-| 🥇 **Best Innovation Award** | **Workday × CS++ Hackathon** | 1st place for *Colour Accessibility Tool* |
-| 🗳️ **People's Choice Award** | **Workday × CS++ Hackathon** | Voted community favorite project across all teams |
-| 🌟 **Gold Volunteering Certificate** | **TU Dublin** | Completed **100+ hours** of student mentorship and leadership |
-| 👩‍💻 **Future Females in Tech** | **Workday** | Selected participant in technical development program |
-| 🚀 **Empowering Female Talent** | **TrailblazHER** | Participant in tech leadership and industry mentorship |
-| 🌱 **Hackathon Participant** | **Innovate4Sustainability** | Sustainability-focused collaborative tech hackathon |
-| 🛡️ **Certified Security Awareness** | **CybSafe (CCSA)** | Digital security, data privacy, and secure practices |
-| 🎹 **Grade 8 Piano & Dizi** | **Music Performance** | Grade 8 Piano certification & traditional bamboo flute player |
+| 🥇 **Best Innovation Award** | **Workday × CS++ Hackathon** | Ranked 1st overall for the engineering and accessibility of *Colour Accessibility Tool*. |
+| 🗳️ **People's Choice Award** | **Workday × CS++ Hackathon** | Voted community favorite project across all participating teams. |
+| 🌟 **Gold Volunteering Award** | **Technological University Dublin** | Awarded for completing **100+ hours** of student mentorship, tutoring, and community support. |
+| 👩‍💻 **Future Females in Tech** | **Workday** | Selected participant in technical leadership and industry development program. |
+| 🚀 **Empowering Female Talent** | **TrailblazHER** | Participant in tech acceleration and leadership mentorship initiative. |
+| 🌱 **Hackathon Finalist** | **Innovate4Sustainability** | Designed collaborative tech solutions addressing environmental sustainability. |
+| 🛡️ **Certified Security Awareness** | **CybSafe (CCSA)** | Certified in data protection principles, threat awareness, and secure digital hygiene. |
+| 🎹 **Grade 8 Performance Certification** | **Music (Piano)** | Grade 8 Piano certification; also performer on the traditional Chinese bamboo flute (*Dizi*). |
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Skills Matrix
 
-<p align="left">
-  <b>Languages:</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript" />
-</p>
-
-<p align="left">
-  <b>Data & Core Concepts:</b><br/>
-  <img src="https://img.shields.io/badge/Data_Handling-4B8BBE?style=flat-square&logoColor=white" alt="Data Handling" />
-  <img src="https://img.shields.io/badge/Statistics-2B5B84?style=flat-square&logoColor=white" alt="Statistics" />
-  <img src="https://img.shields.io/badge/Algorithmic_Thinking-1F425F?style=flat-square&logoColor=white" alt="Algorithmic Thinking" />
-  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot Engine" />
-  <img src="https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processingfoundation&logoColor=white" alt="Processing" />
-</p>
-
-<p align="left">
-  <b>Tools & Workflow:</b><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Cybersecurity_Awareness-CCSA-008080?style=flat-square&logo=shield&logoColor=white" alt="CCSA" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top"><b>Languages</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Data Science & AI</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Data_Handling-4B8BBE?style=flat-square" />
+      <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-2B5B84?style=flat-square" />
+      <img src="https://img.shields.io/badge/Basic_Statistics-1F425F?style=flat-square" />
+      <img src="https://img.shields.io/badge/Algorithmic_Optimization-336699?style=flat-square" />
+      <img src="https://img.shields.io/badge/Computer_Vision_Concepts-555555?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Frameworks & Engines</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Godot_Engine_4-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
+      <img src="https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processingfoundation&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Developer Tools & Practices</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cybersecurity_Awareness-CCSA-008080?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Spoken Languages</b></td>
+    <td width="75%">
+      <code>English (Fluent)</code> · <code>Mandarin / 普通话 (Fluent)</code> · <code>Malay / Bahasa Melayu (Fluent)</code> · <code>Cantonese / 粤语 (Fluent)</code> · <code>Hokkien / 福建话 (Fluent)</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏛️ Campus Leadership & Involvement
+## 🏛️ Leadership & Campus Engagement
 
-- 🎓 **Student Ambassador** — *TU Dublin*
+- 🎓 **Student Ambassador** — *Technological University Dublin*
 - 🤝 **Peer Tutor & Peer Mentor** — *TU Dublin*
 - 💼 **Placement Part-Time Officer (2025/2026)** — *TU Dublin*
 - 🏛️ **Student Councillor** — *TU Dublin*
 - 🎪 **Events Representative** — *Computer Science Society (CS++)*
-- 🏸 **City Campus Rep & Mixed Team Player** — *TU Dublin Badminton Club & WSCA*
+- 🏸 **City Campus Rep & Mixed Team Player** — *TU Dublin Badminton Club*
+- 🏸 **Student Coach Representative** — *Women Student Coach Academy (WSCA) Ireland*
 - 💃 **First Year Representative** — *TU Dublin Dance Society*
 
 ---
 
+## 📊 Activity & Statistics
+
 <p align="center">
-  <i>"Passionate about leveraging technology to build accessible, impactful solutions."</i><br/>
-  Let's connect on <a href="https://www.linkedin.com/in/winnie-tan-3413183a6"><b>LinkedIn</b></a> or reach out at <a href="mailto:wtan2006@gmail.com"><b>wtan2006@gmail.com</b></a>!
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=winnieee-tan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Winnie's GitHub Stats" height="155" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=winnieee-tan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="155" />
+</p>
+
+---
+
+<p align="center">
+  <b>Let's build something impactful together!</b><br/>
+  <a href="https://www.linkedin.com/in/winnie-tan-3413183a6"><b>Connect on LinkedIn</b></a> &nbsp;•&nbsp; 
+  <a href="mailto:wtan2006@gmail.com"><b>Get in Touch via Email</b></a>
 </p>
