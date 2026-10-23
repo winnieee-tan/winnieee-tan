@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Winnie Tan 👋</h1>
+# Hi, I'm Winnie Tan 👋
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Year+2+BSc+Data+Science+%26+AI+%40+TU+Dublin;Aspiring+Software+Engineer+%26+Data+Scientist;Double+Hackathon+Award+Winner+%F0%9F%8F%86;Student+Ambassador+%7C+Peer+Mentor+%7C+Leader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=true&width=550&lines=Year+2+BSc+Data+Science+%26+AI+%40+TU+Dublin;Aspiring+Software+Engineer+%26+Data+Scientist;Double+Hackathon+Award+Winner+%F0%9F%8F%86;Student+Ambassador+%7C+Peer+Mentor+%7C+Leader" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/winnie-tan-3413183a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -17,9 +17,7 @@
   <img src="https://img.shields.io/badge/Location-Dublin%2C%20Ireland-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
-<p align="center">
-  <i>"Driven to design and build accessible software, intelligent data pipelines, and high-impact digital experiences."</i>
-</p>
+> *"Driven to design and build accessible software, intelligent data pipelines, and high-impact digital experiences."*
 
 ---
 
@@ -156,7 +154,7 @@ I am a Year 2 **Data Science & Artificial Intelligence** undergraduate at **Tech
 
 ## 📊 Activity & Statistics
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=winnieee-tan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Winnie's GitHub Stats" height="155" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=winnieee-tan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="155" />
@@ -164,7 +162,7 @@ I am a Year 2 **Data Science & Artificial Intelligence** undergraduate at **Tech
 
 ---
 
-<p align="center">
+<p align="left">
   <b>Let's build something impactful together!</b><br/>
   <a href="https://www.linkedin.com/in/winnie-tan-3413183a6"><b>Connect on LinkedIn</b></a> &nbsp;•&nbsp; 
   <a href="mailto:wtan2006@gmail.com"><b>Get in Touch via Email</b></a>
