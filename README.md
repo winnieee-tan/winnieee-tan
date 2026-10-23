@@ -58,6 +58,12 @@ I am a Year 2 **Data Science & Artificial Intelligence** undergraduate at **Tech
 * **Future Roadmap**: Designed with real-time video processing in mind for eventual deployment to **AR smart glasses** and assistive heads-up displays.
 * **Tech Stack**: `Python` · `Data Transformation Pipelines` · `Computer Vision Concepts` · `Accessible UX`
 
+#### 🖥️ **Computer Systems — Group Architecture & Systems Project (Group 4)**
+> *Technical study and systems presentation developed for the Computer Systems module at TU Dublin.*
+* **Core Investigation**: Low-level computer architecture, hardware/software abstraction layers, memory hierarchies (L1/L2/L3 cache latency vs. throughput), and CPU instruction cycles.
+* **Deliverable & Presentation**: [**View Project Presentation on Canva**](https://canva.link/y913adhs3te67tx) · [**Explore Repository**](https://github.com/winnieee-tan/computer-systems-project)
+* **Key Topics**: `Computer Architecture` · `Systems Engineering` · `Hardware-Software Interface` · `Memory Hierarchy`
+
 #### 🌐 **Web Development 1 — Collaborative Platform (Website)**
 > *Full-stack responsive web application engineered in collaboration with Aaron and teammates.*
 * **Architecture**: Designed and developed responsive frontend pages with clean semantic markup, flexible grid/flexbox layouts, and dynamic DOM interaction.
