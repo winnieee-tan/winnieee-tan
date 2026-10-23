@@ -29,11 +29,11 @@ Here is an overview of my projects and coursework, organized by focus area:
 ### 🎨 Creative Coding
 > Coursework, visual experiments, and interactive game development exploring the intersection of programming and design.
 
-* **[cc26](https://github.com/winnieetan7/cc26)**
+* **[cc26](https://github.com/winnieee-tan/cc26)**
   * *Description*: Creative coding sketches, visual algorithms, and interactive programming labs built using Processing and Java.
   * *Tech Stack*: `Java` · `Processing`
 
-* **[week9-godot-lab](https://github.com/winnieetan7/week9-godot-lab)**
+* **[week9-godot-lab](https://github.com/winnieee-tan/week9-godot-lab)**
   * *Description*: 2D/3D game mechanics and interactive physics lab implemented in Godot Engine.
   * *Tech Stack*: `Godot Engine` · `GDScript`
 
