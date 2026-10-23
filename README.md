@@ -51,10 +51,11 @@ I am a Year 2 **Data Science & Artificial Intelligence** undergraduate at **Tech
 
 ### 📍 Year 1 (Foundations & Hackathon Wins)
 
-#### 👁️ **Colour Accessibility Tool** 🥇
+#### 👁️ **[ColorVision — Real-Time Colour Accessibility Tool](https://github.com/winnieee-tan/ColorVision)** 🥇
 > **Workday × CS++ Hackathon — Double Winner: Best Innovation Award & People's Choice Award**
 * **The Problem**: Over 300 million people worldwide experience colour vision deficiency (CVD), impairing data visualization and UI readability.
 * **The Solution**: Engineered an adaptive data-driven transformation pipeline tailored for **Protanopia** and **Tritanopia** that recalculates visual spectral channels to maximize contrast while preserving contextual scene information.
+* **Deliverables & Media**: [**Watch Demo Videos & View Slide Deck on Canva**](https://canva.link/9z9g4qodt1cffcr) · [**Explore Repository**](https://github.com/winnieee-tan/ColorVision)
 * **Future Roadmap**: Designed with real-time video processing in mind for eventual deployment to **AR smart glasses** and assistive heads-up displays.
 * **Tech Stack**: `Python` · `Data Transformation Pipelines` · `Computer Vision Concepts` · `Accessible UX`
 
@@ -82,7 +83,7 @@ I am a Year 2 **Data Science & Artificial Intelligence** undergraduate at **Tech
 
 | Recognition / Honor | Awarding Body | Impact / Significance |
 | :--- | :--- | :--- |
-| 🥇 **Best Innovation Award** | **Workday × CS++ Hackathon** | Ranked 1st overall for the engineering and accessibility of *Colour Accessibility Tool*. |
+| 🥇 **Best Innovation Award** | **Workday × CS++ Hackathon** | Ranked 1st overall for [**ColorVision**](https://github.com/winnieee-tan/ColorVision) ([Watch Demo Videos & Deck](https://canva.link/9z9g4qodt1cffcr)). |
 | 🗳️ **People's Choice Award** | **Workday × CS++ Hackathon** | Voted community favorite project across all participating teams. |
 | 🌟 **Gold Volunteering Award** | **Technological University Dublin** | Awarded for completing **100+ hours** of student mentorship, tutoring, and community support. |
 | 👩‍💻 **Future Females in Tech** | **Workday** | Selected participant in technical leadership and industry development program. |
