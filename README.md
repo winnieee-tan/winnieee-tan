@@ -71,6 +71,12 @@ I am a Year 2 **Data Science & Artificial Intelligence** undergraduate at **Tech
 * **Deliverable & Presentation**: [**View Project Presentation on Canva**](https://canva.link/azvlkl0v8wunxaf) · [**Explore Repository**](https://github.com/winnieee-tan/sustainable-data-science-ai)
 * **Key Topics**: `Green AI` · `Computational Carbon Footprint` · `Algorithmic Efficiency` · `Ethical AI`
 
+#### 📊 **[Communications — Survey Research & Presentation (Group 3)](https://github.com/winnieee-tan/communications-survey-project)**
+> *Empirical research study and technical presentation developed for the Communications module at TU Dublin.*
+* **Core Investigation**: Formulated survey hypothesis, gathered primary user response data using digital forms, conducted quantitative pattern analysis, and delivered a structured visual presentation.
+* **Deliverable & Presentation**: [**View Project Presentation on Canva**](https://canva.link/kpmbcqap7k1tezv) · [**Explore Repository**](https://github.com/winnieee-tan/communications-survey-project)
+* **Key Topics**: `Survey Methodology` · `Data Collection (Forms)` · `Trend Analysis` · `Technical Presentation`
+
 #### 🌐 **Web Development 1 — Collaborative Platform (Website)**
 > *Full-stack responsive web application engineered in collaboration with Aaron and teammates.*
 * **Architecture**: Designed and developed responsive frontend pages with clean semantic markup, flexible grid/flexbox layouts, and dynamic DOM interaction.
