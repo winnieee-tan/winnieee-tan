@@ -65,6 +65,12 @@ I am a Year 2 **Data Science & Artificial Intelligence** undergraduate at **Tech
 * **Deliverable & Presentation**: [**View Project Presentation on Canva**](https://canva.link/y913adhs3te67tx) · [**Explore Repository**](https://github.com/winnieee-tan/computer-systems-project)
 * **Key Topics**: `Computer Architecture` · `Systems Engineering` · `Hardware-Software Interface` · `Memory Hierarchy`
 
+#### 🌱 **[Sustainable Data Science & AI — Research Project](https://github.com/winnieee-tan/sustainable-data-science-ai)**
+> *Academic research and analytical presentation developed for the Sustainable Data Science and AI module at TU Dublin.*
+* **Core Investigation**: Computational carbon accounting, Green AI vs. Red AI paradigms, energy-efficient model training, and data-driven sustainability strategies.
+* **Deliverable & Presentation**: [**View Project Presentation on Canva**](https://canva.link/azvlkl0v8wunxaf) · [**Explore Repository**](https://github.com/winnieee-tan/sustainable-data-science-ai)
+* **Key Topics**: `Green AI` · `Computational Carbon Footprint` · `Algorithmic Efficiency` · `Ethical AI`
+
 #### 🌐 **Web Development 1 — Collaborative Platform (Website)**
 > *Full-stack responsive web application engineered in collaboration with Aaron and teammates.*
 * **Architecture**: Designed and developed responsive frontend pages with clean semantic markup, flexible grid/flexbox layouts, and dynamic DOM interaction.
