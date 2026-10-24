@@ -59,6 +59,18 @@ I am a Year 2 **Data Science & Artificial Intelligence** undergraduate at **Tech
 * **Future Roadmap**: Designed with real-time video processing in mind for eventual deployment to **AR smart glasses** and assistive heads-up displays.
 * **Tech Stack**: `Python` · `Data Transformation Pipelines` · `Computer Vision Concepts` · `Accessible UX`
 
+#### 🌐 **Web Development 1 — Collaborative Platform (Website)**
+> *Full-stack responsive web application engineered in collaboration with Aaron and teammates.*
+* **Architecture**: Designed and developed responsive frontend pages with clean semantic markup, flexible grid/flexbox layouts, and dynamic DOM interaction.
+* **Engineering Standards**: Followed strict Git branching workflows, peer pull requests, and mobile-first responsive design.
+* **Tech Stack**: `HTML5` · `CSS3` · `JavaScript` · `Git & GitHub Collaboration`
+
+#### 🎨 **Creative Coding & Interactive Visuals**
+* **[week9-godot-lab](https://github.com/winnieee-tan/week9-godot-lab)**: Interactive 2D/3D physics laboratory, state management, kinematics, and real-time audio wave synthesis using the Godot Engine and GDScript.  
+  *`Godot 4` · `GDScript` · `Game Mechanics` · `Audio Synthesis`*
+* **[cc26](https://github.com/winnieee-tan/cc26)**: Procedural graphics generation, generative art, and algorithmic visual patterns built using Processing and Java.  
+  *`Java` · `Processing` · `Computational Visuals`*
+
 #### 🖥️ **Computer Systems — Group Architecture & Systems Project (Group 4)**
 > *Technical study and systems presentation developed for the Computer Systems module at TU Dublin.*
 * **Core Investigation**: Low-level computer architecture, hardware/software abstraction layers, memory hierarchies (L1/L2/L3 cache latency vs. throughput), and CPU instruction cycles.
@@ -76,18 +88,6 @@ I am a Year 2 **Data Science & Artificial Intelligence** undergraduate at **Tech
 * **Core Investigation**: Formulated survey hypothesis, gathered primary user response data using digital forms, conducted quantitative pattern analysis, and delivered a structured visual presentation.
 * **Deliverable & Presentation**: [**View Project Presentation on Canva**](https://canva.link/kpmbcqap7k1tezv) · [**Explore Repository**](https://github.com/winnieee-tan/communications-survey-project)
 * **Key Topics**: `Survey Methodology` · `Data Collection (Forms)` · `Trend Analysis` · `Technical Presentation`
-
-#### 🌐 **Web Development 1 — Collaborative Platform (Website)**
-> *Full-stack responsive web application engineered in collaboration with Aaron and teammates.*
-* **Architecture**: Designed and developed responsive frontend pages with clean semantic markup, flexible grid/flexbox layouts, and dynamic DOM interaction.
-* **Engineering Standards**: Followed strict Git branching workflows, peer pull requests, and mobile-first responsive design.
-* **Tech Stack**: `HTML5` · `CSS3` · `JavaScript` · `Git & GitHub Collaboration`
-
-#### 🎨 **Creative Coding & Interactive Visuals**
-* **[week9-godot-lab](https://github.com/winnieee-tan/week9-godot-lab)**: Interactive 2D/3D physics laboratory, state management, kinematics, and real-time audio wave synthesis using the Godot Engine and GDScript.  
-  *`Godot 4` · `GDScript` · `Game Mechanics` · `Audio Synthesis`*
-* **[cc26](https://github.com/winnieee-tan/cc26)**: Procedural graphics generation, generative art, and algorithmic visual patterns built using Processing and Java.  
-  *`Java` · `Processing` · `Computational Visuals`*
 
 ---
 
