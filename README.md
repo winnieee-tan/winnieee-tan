@@ -35,17 +35,23 @@ I am a Year 2 **Data Science & Artificial Intelligence** undergraduate at **Tech
 
 ### 📍 Year 2 (Current Academic Year — 2025/2026)
 
+#### 💶 **[International Student Expense Tracker — Human-Made Data Project](https://github.com/winnieee-tan/student-expense-tracker)**
+> *Data Centric Programming (TU850) core coursework tracking 50+ real living expenses of an international student in Dublin.*
+* **Full Engineering Pipeline**: Measured and collected 52 authentic transaction records across 8 features; engineered an SQLite database (`expenses.db`) with analytical queries (`GROUP BY`, `ORDER BY`, `WHERE`, `AVG`, `COUNT`); generated 5 statistical charts in `pandas` and `matplotlib`.
+* **Interactive Tkinter Application**: Features real-time multi-criteria filtering, financial metric cards, embedded visualization viewer, and a dynamic expense-entry modal.
+* **Tech Stack**: `Python` · `SQLite3` · `pandas` · `matplotlib` · `Tkinter GUI` · `Data Engineering`
+
+#### 📈 **[Analytics for Decision Making — Laboratory Portfolio](https://github.com/winnieee-tan/analytics-for-decision-making)**
+> *Applied predictive modeling, supervised learning workflows, and statistical evaluation at TU Dublin.*
+* **Core Investigations**: Rule-based classification, decision tree induction, train-test splitting (70/30), confusion matrices, feature correlation ($r = 0.877$), and diagnosing accuracy paradoxes on imbalanced data.
+* **Tech Stack**: `Orange Data Mining` · `Supervised Learning` · `Decision Trees` · `Exploratory Data Analysis` · `Excel`
+
 #### 🏆 **Huawei Techarena Hackathon Project**
 > *Competitive engineering and systems challenge hosted by Huawei.*
 * **Objective**: Tackle real-world computational efficiency and algorithmic optimization problems.
 * **Core Focus**: High-performance algorithmic thinking, data structures, and computational optimization.
 * **Tech**: `Algorithms` · `Data Structures` · `Python` · `Systems Engineering`
 * *Status*: 🚧 Finalizing implementation and technical documentation.
-
-#### 📊 **Data-Centric AI & Applied Analytics**
-> *Applied statistical modeling and data preprocessing coursework.*
-* **Objective**: Process, transform, and analyze datasets to uncover patterns, handle missingness, and build predictive insights.
-* **Tech**: `Python` · `Jupyter Notebooks` · `Pandas` · `NumPy` · `Data Cleaning` · `Exploratory Data Analysis`
 
 ---
 
