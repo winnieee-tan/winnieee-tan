@@ -180,9 +180,9 @@ I am a Year 2 **Data Science & Artificial Intelligence** undergraduate at **Tech
 ## 📊 Activity & Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=winnieee-tan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Winnie's GitHub Stats" height="155" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=winnieee-tan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Winnie's GitHub Stats" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=winnieee-tan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="155" />
+  <img src="https://streak-stats.demolab.com/?user=winnieee-tan&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 ---
